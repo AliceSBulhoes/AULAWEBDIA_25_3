@@ -128,3 +128,14 @@ function profecia(){
      }
 }
 profecia();
+
+function calc(num,num2){
+    return num + num2;
+}
+console.log(calc(5,6))
+
+function info(){
+    alert("Informação!!! IU IU");
+    console.log("TESTE")
+}
+info();
